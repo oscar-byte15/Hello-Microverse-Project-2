@@ -10,8 +10,6 @@ Requirements:
 - It has a .gitignore file
 - It has a README.md file to describe this project rigthly
 
-
 Thanks,
-
 
 Oscar De la Cruz
