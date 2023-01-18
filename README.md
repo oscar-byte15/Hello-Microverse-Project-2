@@ -65,8 +65,6 @@ After you're finished please remove all the comments and instructions!
 > In this project, I will set up a "Hello world" repository and message. My goal here is to master all of the tools and best practices that I learned in Microverse. 
 I hope It demostrates my profesionalism and my capability to document any project in a rigth way!
 
-
-
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
